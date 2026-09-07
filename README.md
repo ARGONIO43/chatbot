@@ -12,6 +12,8 @@ Telegram Bot API — Para la comunicación con el bot.
 OpenWeather API — Para consultar el clima.
 PokéAPI — Para obtener información de Pokémon.
 JokeAPI — Para obtener chistes.
+
+
 Tecnologías
 Python
 Telebot
