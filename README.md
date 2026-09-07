@@ -14,19 +14,17 @@ PokéAPI — Para obtener información de Pokémon.
 JokeAPI — Para obtener chistes.
 
 
-Tecnologías
-Python
-Telebot
-Requests
+Tecnologías:
+Python,
+Telebot,
+Requests,
 python-dotenv
-Instalación
 
-Clona el repositorio e instala las dependencias:
-
+Instalación:
+Clona el repositorio e instala las dependencias
 pip install -r requirements.txt
 
 Crea un archivo .env con las claves necesarias:
-
 TELEGRAM_TOKEN=tu_token
 OPENWEATHER_API_KEY=tu_api_key
 
