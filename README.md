@@ -29,8 +29,7 @@ TELEGRAM_TOKEN=tu_token
 OPENWEATHER_API_KEY=tu_api_key
 
 Después ejecuta:
-
 python main.py
-Descripción
 
+Descripción:
 El proyecto fue realizado como Proyecto Final para PROTECO y ademas para practicar el uso de APIs, peticiones HTTP, manejo de datos JSON y desarrollo de bots utilizando Python.
